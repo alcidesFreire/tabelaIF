@@ -1,0 +1,15 @@
+#legend{
+    background-color: rgb(123, 173, 123);
+    color: rgb(226, 225, 225);
+}
+#legends:hover{
+    cursor: pointer;
+    color: rgb(93, 189, 93);
+    }
+    #legends1:hover{
+        cursor: pointer;
+        color: rgb(252, 34, 34);
+        }
+     h2{
+         text-align: center;
+     }
